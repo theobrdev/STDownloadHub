@@ -12,6 +12,7 @@
       'cat-st1': 'Categoria Slendytubbies 1',
       'cat-st2': 'Categoria Slendytubbies 2',
       'cat-2d': 'Categoria Slendytubbies 2D',
+      'cat-anniv': 'Categoria Anniversary Edition',
       'cat-other': 'Outros Jogos',
       'lost1': 'Infelizmente, V1.0, V1.1 e V2.5 são mídia perdida (lost media)',
       'lost2': 'Infelizmente, V1.6 Legacy Coming Soon, V1.0.1, V1.1 e V1.2 são mídia perdida (lost media)',
@@ -392,7 +393,34 @@
       'd2-77': "Atualizações (S2D)",
       'd2-78': "Texto por: Slendytubbies Wiki",
       'd2-79': "Ícone",
-      'd2-80': "Menu"
+      'd2-80': "Menu",
+      /* Anniversary.html */
+      'ae-1': "<strong>Desenvolvedor:</strong> ZeoWorks",
+      'ae-2': "<strong>Engine:</strong> Unity 5",
+      'ae-3': "<strong>Plataforma:</strong> Microsoft Windows, OS X, Android, iOS",
+      'ae-4': "<strong>Lançamento:</strong> 12 de dezembro de 2015",
+      'ae-5': "<strong>Gênero:</strong> Survival Horror, Coleta de Itens",
+      'ae-6': "<strong>Idioma:</strong> Inglês, Espanhol (todos)<br>Norueguês, Holandês, Polonês, Português, Turco e Tailandês (Android)",
+      'ae-7': "<strong>Canônico:</strong> Não",
+      'ae-8': "<strong>Jogo anterior:</strong> <a href=\"2D.html\">Slendytubbies 2D</a>",
+      'ae-9': "<strong>Próximo jogo:</strong> Slendytubbies III",
+      'ae-10': "<strong><em>Slendytubbies: Anniversary Edition</em></strong>, também conhecido como <strong><em>Slendytubbies: AE</em></strong> (abreviado como <strong><em>S:AE</em></strong>), é um remake do <em><a href=\"ST1.html\">Slendytubbies</a></em> — foi feito para comemorar o terceiro aniversário do primeiro jogo.",
+      'ae-11': "Jogabilidade",
+      'ae-12': "A jogabilidade do <em>Slendytubbies: Anniversary Edition</em> é muito parecida com a do <em>Slendytubbies</em> original, mas com a remoção de algumas coisas do jogo original, como os ambientes interativos e o comportamento único dos inimigos.",
+      'ae-13': "Descrição",
+      'ae-14': "12/12/12 foi a data de lançamento do jogo <em>Slendytubbies</em> original. Já se passaram 3 anos. E então, sem mais delongas, apresentamos a vocês o <em>Slendytubbies: Anniversary Edition</em>! Um remake em HD do jogo Slendytubbies original para comemorar 3 anos de terror tubby!",
+      'ae-15': "Com a possibilidade de alternar entre os gráficos clássicos e os novos gráficos remasterizados em HD dentro do jogo. O Slendytubbies Anniversary Edition inclui Singleplayer e Multiplayer. Lançamos este jogo como nossa forma de dizer um grande obrigado a todos que nos apoiaram até agora no desenvolvimento de jogos. Vocês mudaram nossas vidas, e espero que possamos continuar fazendo jogos indie de ótima qualidade para vocês aproveitarem!",
+      'ae-16': "Para alternar entre os gráficos Clássicos e Remasterizados em HD, pressione “<strong>V</strong>” a qualquer momento.",
+      'ae-17': "O Mapa",
+      'ae-18': "Teletubby Land",
+      'ae-19': "Dia (Assustador)",
+      'ae-20': "Entardecer (Mais assustador)",
+      'ae-21': "Noite (O mais assustador)",
+      'ae-22': "Curiosidades",
+      'ae-23': "O download do jogo foi removido do site da ZeoWorks.",
+      'ae-24': "O jogo foi removido algumas vezes para usuários de iOS.",
+      'ae-25': "O jogo apresenta o pop-up “Your Next” <strong>[<em>sic</em>]</strong> do <a href=\"ST1Alphas.html\">Slendytubbies Alpha</a>.",
+      'ae-26': "Texto por: Slendytubbies Wiki"
     }
   };
 
